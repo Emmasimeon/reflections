@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Honestly using the FC command to view two versions of a file,
+    it helped me spot out the bug easily, it was so cool!, i never
+    really got to know about this all this while.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Personally this would make me a very efficient programmer in rolling back codes
+    and easily spotting out bugs, as a common saying goes, sometimes you need to
+    go backward first in other to go forward.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros of manually choosing when to commit would be the programmer ability to
+    make logical commits or changes that shows a particular change to the program,
+    Cons to manually committing changes would be that the programmer making too little
+    or too much commit is possible.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I would say because Git is designed for code and software version control,
+    while Google Docs are basically version control for documents to which a
+    commit on one of the document isn't of much relevance to the other document.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Using the command git log would populate all the file version history and changes,
+    while the command git diff would take two commits id and identify and populate the
+    changes that occurred within two different versions of the files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With git checkout command at the back on my hand, i can confidently make changes
+    that could break my code without much worries, knowing well that i could easily check
+    out a commit and find the bug breaking my code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    While i would still want to learn more and dive deeper into Git for the main time,
+    i would be porting all my current web projects into a Git repository so i could
+    start working on web projects with efficient version control.
