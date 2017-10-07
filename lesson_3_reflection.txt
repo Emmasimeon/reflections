@@ -25,3 +25,10 @@ use one instead of another?
               out experimental features without breaking your code base.
               This is best suited in a collaborative environment with different people working
               on different features on a particular project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    This essentially help the Git system avoid conflicts in commits, especially in a multi user or
+    collaborative project environment.
+    You could also access the remote copy of the project locally on your system and compares
+    differences before even making a commit. 
