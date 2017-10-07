@@ -11,3 +11,17 @@ stay up-to-date with your remote repository?
     production version(remote) into your local version while probably experimenting a new
     future or working on a bug fix could break your code base for a while giving you some
     easily avoidable headache.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+    Forks: Are basically cloning or copying someone else public repository on GitHub to which
+           you would want to work on but have no access to commit changes onto the repository.
+    Clones: Are essentially making your own copy of a repository that you would always want
+            to work on and commit changes to, be it remotely or locally.
+            A use case would be you wanting to have your own copy or files of collaborative
+            project you would want to work on locally.
+    Branches: refers to various track to which you could work on in your project or even try
+              out experimentaly features without breaking your code base.
+              This is best suited in a collaborative environment with different people working
+              on different features on a particular project.
