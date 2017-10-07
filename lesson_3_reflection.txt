@@ -21,7 +21,7 @@ use one instead of another?
             to work on and commit changes to, be it remotely or locally.
             A use case would be you wanting to have your own copy or files of collaborative
             project you would want to work on locally.
-    Branches: refers to various track to which you could work on in your project or even try
-              out experimentaly features without breaking your code base.
+    Branches: refers to various codebase to which you could work on in your project or even try
+              out experimental features without breaking your code base.
               This is best suited in a collaborative environment with different people working
               on different features on a particular project.
