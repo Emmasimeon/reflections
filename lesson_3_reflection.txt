@@ -31,4 +31,11 @@ What is the benefit of having a copy of the last known state of the remote store
     This essentially help the Git system avoid conflicts in commits, especially in a multi user or
     collaborative project environment.
     You could also access the remote copy of the project locally on your system and compares
-    differences before even making a commit. 
+    differences before even making a commit.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+    I really don't know if it would be easily possible to remotely collaborate on a project, if not
+    for the traditional zip,upload and download method which would have been time taking and painstaking
+    in times of code conflict resolution, discovery and fixing of bugs and even versioning, But with
+    Git and GitHub all of this features and processes are been simplified and are really easier to work with.
