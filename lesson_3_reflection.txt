@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+    A remote repository would be of greater importance when working on a collaborative 
+    project with other people, this would keep the workflow very neat and easy to manage.
